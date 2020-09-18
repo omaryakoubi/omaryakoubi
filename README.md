@@ -5,13 +5,13 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Javascript, VueJS, Express, MongoDB....**
+💬 Ask me about **Javascript, VueJS, Express, MongoDB....**
 
-- 📫 How to reach me **yakoubiomar12@gmail.com**
+📫 How to reach me **yakoubiomar12@gmail.com**
 
-- ⚡ Fun fact **I like to cook and eat.**
+⚡ Fun fact **I like to cook and eat.**
 
 </div>
 
