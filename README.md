@@ -4,7 +4,8 @@
 ---
 
 <div align="center">
-- 🌱 I’m currently learning <h4>Python</h4>
+
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Javascript, VueJS, Express, MongoDB....** 
 
