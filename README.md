@@ -1,5 +1,5 @@
 ```javascript
-const about = {
+let about = {
   fullName: "Omar Yakoubi",
   currentlyLearning: "Python",
   job: "Web developer",
