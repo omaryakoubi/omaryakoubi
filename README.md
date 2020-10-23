@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Omar Yakoubi</h1>
-<h3 align="center" style>An Enthusiast Full Stack Developer. </h3>
+<div>
 
----
-
-<div align="center">
-
-🌱 I’m currently learning **Python**
-
-💬 Ask me about **Javascript, VueJS, Express, MongoDB....**
-
-📫 How to reach me **yakoubiomar12@gmail.com**
-
-⚡ Fun fact **I like to cook and eat.**
+```javascript
+const about = {
+  fullName: "Omar Yakoubi",
+  currentlyLearning: "Python",
+  job: "full-stack web developer",
+  location: "Tunis, Tunisia", 
+  askMeAbout: ["Vue.js", "Node.js", "Express.js", "MongoDB"],
+  interests: ["javascript weird parts", "modern web development", "data structures"]
+};
 
 </div>
 
