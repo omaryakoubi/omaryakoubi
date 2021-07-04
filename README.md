@@ -5,6 +5,6 @@
 I’m an ambitious and motivated Javascript Developer currently working as
 a Full-Stack Javascript Instructor @GoMyCode.
 
-“Your future depends on what you do today.”
 
-<h6>Mahatma Gandhi</h6>
+“Your future depends on what you do today.”
+<h5>Mahatma Gandhi</h5>
